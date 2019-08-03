@@ -1,2 +1,2 @@
 # awesome-cv-resume
-A curated list of awesome CVs and resume templates
+A curated list of awesome CV and resume templates
