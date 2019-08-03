@@ -9,11 +9,11 @@
 - [Another Section](#another-section)
 
 
-## Section
+## Latex 
 
 About this section. Optional. Keep this short and focus on the list.
 
-- [List item](http://example.com)
+- [XeTeX CV template by Dario Taraborelli](https://github.com/dartar/cvtex)
 - [List item](http://example.com)
 
 
