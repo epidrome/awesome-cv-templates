@@ -15,15 +15,18 @@
 
 ## CSS
 
-CSS CV templates are based on HTML standards and provide mostly screen output, but there is also the option to print.
+CSS CV templates are based on HTML standards and they are geared towards screen output, but there is also the option to print.
 
-- [Markdown CV](https://github.com/elipapa/markdown-cv) - A simple template to write your CV in a readable markdown file and use CSS to publish/print it.
--
+- [Markdown CV](https://github.com/elipapa/markdown-cv) - A simple template to write your CV in a readable markdown file and use CSS to publish or print it through the browser.
+- [Markdown Resume](https://github.com/there4/markdown-resume) - Generate a responsive CSS3 and HTML5 resume with Markdown, with optional PDF output through wkhtmltopdf.
+
+
 ## Frameworks
 
 Frameworks employ one or more programming languages, libraries, schemas, in order to produce multiple outputs from a single data source.
 
 - [Hack My Resume](https://github.com/hacksalot/HackMyResume) - Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML.
+
 
 ## LaTeX 
 
@@ -36,6 +39,7 @@ This section contains only pure LaTeX templates, which focus on the production o
 - [limecv](https://github.com/opieters/limecv) - Limecv by opieters is an elaborate and well-documented two-collumn resume with icons and infographic elements.
 - [XeTeX CV](https://github.com/dartar/cvtex) - This flexible template by dartar supports any font and language and it has inspired many forks.
 
+
 ## Schemas
 
 Schemas and ontologies provide a generic structure for CV data and facilitate cross compilation with alternative templates.
@@ -43,12 +47,14 @@ Schemas and ontologies provide a generic structure for CV data and facilitate cr
 - [JSON Resume](https://github.com/jsonresume) - JSON standard for resumes.
 - [FRESH](https://github.com/fresh-standard/fresh-resume-schema) - JSON/YAML standard for resumes.
 
+
 ## Services
 
 There are (free or commercial) services that aid the user to fill-in and/or customize a CV template with a simple web form.
 
 - [enhanceCV](https://enhancv.com/) - Commercial service with variations of a single template. 
 - [resume.io](https://resume.io/) - Commercial service with several templates (professional, modern, simple).
+
 
 ## Contribute
 
