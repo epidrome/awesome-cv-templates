@@ -10,6 +10,11 @@
 - [Schemas](#Schemas)
 - [Services](#Services)
 
+## Frameworks
+
+Frameworks employ one or more programming languages, libraries, schemas, in order to produce multiple outputs from a single data source.
+
+- [Hack My Resume](https://github.com/hacksalot/HackMyResume) - Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon.
 
 ## LaTeX 
 
@@ -21,12 +26,6 @@ This section contains only pure LaTeX templates, which focus on the production o
 - [LaTeX CV](https://github.com/jankapunkt/latexcv) - Three LaTeX templates (classic, modern, infographics) and asian languages support.
 - [limecv](https://github.com/opieters/limecv) - Limecv by opieters is an elaborate and well-documented two-collumn resume with icons and infographic elements.
 - [XeTeX CV](https://github.com/dartar/cvtex) - This flexible template by dartar supports any font and language and it has inspired many forks.
-
-## Frameworks
-
-Frameworks employ one or more programming languages, libraries, schemas, in order to produce multiple outputs from a single data source.
-
-- [Hack My Resume](https://github.com/hacksalot/HackMyResume) - Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon.
 
 ## Schemas
 
