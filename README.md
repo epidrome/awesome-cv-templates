@@ -12,7 +12,6 @@
 - [Services](#Services)
 
 
-
 ## CSS
 
 CSS CV templates are based on HTML standards and they are geared towards screen output, but there is also the option to print.
@@ -23,9 +22,10 @@ CSS CV templates are based on HTML standards and they are geared towards screen 
 
 ## Frameworks
 
-Frameworks employ one or more programming languages, libraries, schemas, in order to produce multiple outputs from a single data source.
+Frameworks employ one or more programming layout languages, toolchains, schemas, in order to produce multiple outputs from a single data source.
 
-- [Hack My Resume](https://github.com/hacksalot/HackMyResume) - Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML.
+- [Hack My Resume](https://github.com/hacksalot/HackMyResume) - Edit a single standard JSON/YAML file and generate CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML with javascript libraries.
+- [Pandoc Resume](https://github.com/mszep/pandoc_resume) - Edit a human readable markdown file and generate HTML, PDF with pandoc and LaTeX.
 
 
 ## LaTeX 
