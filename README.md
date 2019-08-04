@@ -10,17 +10,18 @@
 - [Schemas](#Schemas)
 - [Services](#Services)
 
+
 ## Frameworks
 
 Frameworks employ one or more programming languages, libraries, schemas, in order to produce multiple outputs from a single data source.
 
-- [Hack My Resume](https://github.com/hacksalot/HackMyResume) - Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon.
+- [Hack My Resume](https://github.com/hacksalot/HackMyResume) - Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML.
 
 ## LaTeX 
 
 This section contains only pure LaTeX templates, which focus on the production of printed pages.
 
-- [Alta CV]() - Alta CV provides two-columns, infographics, and icons and it is based on the [original Marissa Meyer resume](https://www.businessinsider.com/a-sample-resume-for-marissa-mayer-2016-7/).
+- [Alta CV](https://github.com/liantze/AltaCV) - Alta CV provides two-columns, infographics, and icons and it is based on the [original Marissa Meyer resume](https://www.businessinsider.com/a-sample-resume-for-marissa-mayer-2015-7/).
 - [Fancy CV](https://github.com/depressiveRobot/friggeri-cv-a4) - Fancy CV by Adrien Friggeri is a modern layout and has inspired many forks.
 - [Deedy Resume](https://github.com/deedy/Deedy-Resume) - A one page, two asymmetric column resume template in XeTeX that caters to an undergraduate Computer Science student.
 - [LaTeX CV](https://github.com/jankapunkt/latexcv) - Three LaTeX templates (classic, modern, infographics) and asian languages support.
@@ -31,8 +32,8 @@ This section contains only pure LaTeX templates, which focus on the production o
 
 Schemas and ontologies provide a generic structure for CV data and facilitate cross compilation with alternative templates.
 
-- [JSON Resume](https://github.com/jsonresume) - JSON standard for resumes
-- [FRESH](https://github.com/fresh-standard/fresh-resume-schema) - JSON/YAML standard for resumes
+- [JSON Resume](https://github.com/jsonresume) - JSON standard for resumes.
+- [FRESH](https://github.com/fresh-standard/fresh-resume-schema) - JSON/YAML standard for resumes.
 
 ## Services
 
