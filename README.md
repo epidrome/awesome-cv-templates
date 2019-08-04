@@ -5,12 +5,20 @@
 
 ## Contents
 
+- [CSS](#CSS)
 - [Frameworks](#Frameworks)
 - [LaTeX](#LaTeX)
 - [Schemas](#Schemas)
 - [Services](#Services)
 
 
+
+## CSS
+
+CSS CV templates are based on HTML standards and provide mostly screen output, but there is also the option to print.
+
+- [Markdown CV](https://github.com/elipapa/markdown-cv) - A simple template to write your CV in a readable markdown file and use CSS to publish/print it.
+-
 ## Frameworks
 
 Frameworks employ one or more programming languages, libraries, schemas, in order to produce multiple outputs from a single data source.
