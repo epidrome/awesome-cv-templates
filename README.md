@@ -24,7 +24,7 @@ CSS CV templates are based on HTML standards and they are geared towards screen 
 
 Frameworks employ one or more programming layout languages, toolchains, schemas, in order to produce multiple outputs from a single data source.
 
-- [Hack My Resume](https://github.com/hacksalot/HackMyResume) - Edit a single standard JSON/YAML file and generate CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML with javascript libraries.
+- [Hack My Resume](https://github.com/hacksalot/HackMyResume) - Edit a single standard JSON/YAML file and generate CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML with JavaScript libraries.
 - [Pandoc Resume](https://github.com/mszep/pandoc_resume) - Edit a human readable markdown file and generate HTML, PDF with pandoc and LaTeX.
 - [Resume generator](https://github.com/mwhite/resume) - Edit a markdown file and then the unix `make` tool employs a `python` pre-processor and pandoc, in order to create PDF and HTML output.
 
