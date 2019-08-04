@@ -39,7 +39,7 @@ Schemas and ontologies provide a generic structure for CV data and facilitate cr
 
 There are (free or commercial) services that aid the user to fill-in and/or customize a CV template with a simple web form.
 
-- [enhanceCV](https://enhancv.com/) - Commercial service with custom versions of the [original Marissa Meyer resume](https://www.businessinsider.com/a-sample-resume-for-marissa-mayer-2016-7/).
+- [enhanceCV](https://enhancv.com/) - Commercial service with variations of a single template. 
 - [resume.io](https://resume.io/) - Commercial service with several templates (professional, modern, simple).
 
 ## Contribute
