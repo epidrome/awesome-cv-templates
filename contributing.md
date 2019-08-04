@@ -8,9 +8,10 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- Read the [Awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md) and ensure your addition complies.
+- Search this list before adding a new item, as yours may be a duplicate. 
+- The main aim of new additions is to keep the list updated (e.g., delete items, add better ones, change links) and to expand coverage to a wide variety of technologies.
+- The list should not include simple forks or variations of the same project, or even alternative implementations of the same technology, only the best (most awesome) will do!
 
 Thank you for your suggestions!
 
