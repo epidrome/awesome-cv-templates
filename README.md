@@ -22,7 +22,7 @@ CSS CV templates are based on HTML standards and they are geared towards screen 
 
 ## Workflows
 
-Frameworks employ one or more programming layout languages, toolchains, schemas, in order to produce multiple outputs from a single data source.
+Workflows employ one or more programming and layout languages, toolchains, and schemas, in order to produce multiple outputs from a single data source.
 
 - [Hack My Resume](https://github.com/hacksalot/HackMyResume) - Edit a single standard JSON/YAML file and generate CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML with JavaScript libraries.
 - [Pandoc Resume](https://github.com/mszep/pandoc_resume) - Edit a human readable markdown file and generate HTML, PDF with pandoc and LaTeX.
@@ -43,7 +43,7 @@ This section contains only pure LaTeX templates, which focus on the production o
 
 ## Schemas
 
-Schemas and ontologies provide a generic structure for CV data and facilitate cross compilation with alternative templates.
+Schemas provide a generic structure for CV data and facilitate cross compilation with alternative templates.
 
 - [JSON Resume](https://github.com/jsonresume) - JSON standard for resumes.
 - [FRESH](https://github.com/fresh-standard/fresh-resume-schema) - JSON/YAML standard for resumes.
