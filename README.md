@@ -17,7 +17,9 @@
 
 If you are an academic, then you might want to include your publications as part of your CV.
 
-- [Jekyll-Scholar](https://github.com/inukshuk/jekyll-scholar) - This is a generic `ruby` gem that works alongside the `jekyll` static-site generator in order to convert `BibTeX` into `HTML`.
+- [bibtex2html](https://github.com/backtracking/bibtex2html) - Command-line tool that converts `BibTeX` files into `HTML`.
+- [Jekyll-Scholar](https://github.com/inukshuk/jekyll-scholar) - A `ruby` gem that works alongside the `jekyll` static-site generator in order to convert `BibTeX` into `HTML`.
+
 
 ## CSS
 
