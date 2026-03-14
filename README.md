@@ -36,6 +36,7 @@ Workflows employ one or more programming and layout languages, toolchains, and s
 
 - [Hack My Resume](https://github.com/hacksalot/HackMyResume) - Edit a single standard `JSON` file and generate CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML with `JavaScript` libraries.
 - [Pandoc Resume](https://github.com/mszep/pandoc_resume) - Edit a human readable `Markdown` file and generate HTML, PDF with `pandoc` and `LaTeX`.
+- [Resumx](https://github.com/resumx/resumx) - Write a `Markdown` resume and generate PDF, HTML, DOCX, and PNG with auto page-fitting and built-in Tailwind CSS styling.
 - [Resume generator](https://github.com/mwhite/resume) - Edit a markdown file and then the unix `make` tool employs a `python` pre-processor and pandoc, in order to create PDF and HTML output.
 
 
