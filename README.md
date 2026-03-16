@@ -66,6 +66,7 @@ There are (free or commercial) services that aid the user to fill-in and/or cust
 - [enhancecv](https://enhancv.com/) - Commercial service with variations of a single template. 
 - [resume.io](https://resume.io/) - Commercial service with several templates (professional, modern, simple).
 - [resumake](https://github.com/saadq/resumake.io) - Free service that supports the `JSON` resume standard and employs `LaTeX` templates.
+- [OhMyDoc](https://github.com/kimwwk/ohmydoc-using-claude-code-agent) - Free, open-source paste-and-format tool for resumes and cover letters with instant PDF export. No login required.
 
 
 ## Contribute
