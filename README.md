@@ -66,6 +66,7 @@ There are (free or commercial) services that aid the user to fill-in and/or cust
 - [enhancecv](https://enhancv.com/) - Commercial service with variations of a single template. 
 - [resume.io](https://resume.io/) - Commercial service with several templates (professional, modern, simple).
 - [resumake](https://github.com/saadq/resumake.io) - Free service that supports the `JSON` resume standard and employs `LaTeX` templates.
+- [CV Forge](https://github.com/DeusAcc/cv-forge-ai-resume-builder) - Paste raw notes, get a typeset ATS-friendly PDF resume. Free tier, paid API.
 
 
 ## Contribute
