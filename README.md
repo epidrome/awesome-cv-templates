@@ -65,6 +65,7 @@ There are (free or commercial) services that aid the user to fill-in and/or cust
 
 - [enhancecv](https://enhancv.com/) - Commercial service with variations of a single template. 
 - [resume.io](https://resume.io/) - Commercial service with several templates (professional, modern, simple).
+- [ResumeAI](https://withresumeai.com/) - AI resume builder with free ATS checker (3/day anonymous, 10/day free account) and open State of ATS 2026 (738 employers, 704 portal-verified; Workday 37.9%).
 - [resumake](https://github.com/saadq/resumake.io) - Free service that supports the `JSON` resume standard and employs `LaTeX` templates.
 
 
