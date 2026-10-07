@@ -63,6 +63,7 @@ Schemas provide a generic structure for CV data and facilitate cross compilation
 
 There are (free or commercial) services that aid the user to fill-in and/or customize a CV template with a simple web form.
 
+- [CandidThread NZ CV template](https://candidthread.com/resume-templates/nz-cv-template) - Free A4 New Zealand CV template with Word/PDF downloads and an optional browser preview of an existing CV.
 - [enhancecv](https://enhancv.com/) - Commercial service with variations of a single template. 
 - [resume.io](https://resume.io/) - Commercial service with several templates (professional, modern, simple).
 - [resumake](https://github.com/saadq/resumake.io) - Free service that supports the `JSON` resume standard and employs `LaTeX` templates.
